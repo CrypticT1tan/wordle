@@ -23,7 +23,7 @@ The rules work exactly the same as the Wordle game on The New York Time's websit
 Input 5-letter word guesses into the entry box to figure out the mystery word within 6 guesses.  
 Press the Enter key to get the results of your guess.  
 Green 🟩 means the letter is in the right spot.  
-Yellow 🟨 means the letter is in the mystery word but misplaced.  
+Yellow 🟨 means the letter is in the mystery word but is also misplaced.  
 White ⬜ means the letter isn't in the mystery word at all.  
 
 ## Contact
